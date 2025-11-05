@@ -40,9 +40,10 @@
 
 *(Attach screenshots or terminal outputs as evidence of your completed work)*  
 
-<img src="../assets/C:\Users\Screenshot 2025-10-14 223248.png" alt="Capacity of a Cell" width="100%">
+- <img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/440a8c99-ce4b-4d54-83f6-5297cbcdb0a4" />
 ---
-<img src="../assets/C:\Users\Screenshot 2025-10-14 224730.png" alt="Capacity of a Cell" width="100%">
+- <img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/440a8c99-ce4b-4d54-83f6-5297cbcdb0a4" />
 ---
-<img src="../assets/C:\Users\Screenshot 2025-10-14 230453.png" alt="Capacity of a Cell" width="100%">
+- <img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/440a8c99-ce4b-4d54-83f6-5297cbcdb0a4" />
+
 
