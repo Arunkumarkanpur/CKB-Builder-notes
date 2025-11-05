@@ -1,24 +1,52 @@
 
-Progress This Week:
+# CKB Builder Track – Weekly Progress Report 
 
-• I have learned about Introduction to Nervos CKB.
-• Learned about CKB’s cell model.
-• Understood CKBytes, transactions, and state management.
-• Learned clarity on Layer 1 vs. Layer 2 roles in Nervos.
-• I have learnt Lesson 1 & Lesson 2, [ Introduction to Nervos CKB, how CKB works].
+---
 
+##  Progress This Week
 
-Quick Start using OFFCKB:
-• Installed some software and set up OffCKB dev environment.
-• Learned about how to configure networks.
-• Learned about basic commands for project initialization.
+- Learned about **Introduction to Nervos CKB**.  
+- Studied **CKB’s Cell Model** and its structure.  
+- Understood **CKBytes**, **transactions**, and **state management**.  
+- Gained clarity on **Layer 1 vs. Layer 2** roles in the Nervos ecosystem.  
+- Completed **Lesson 1 & Lesson 2** – *Introduction to Nervos CKB* and *How CKB Works*.
 
+---
 
-About Lessons 1 & 2:
-• How Nervos blockchain works.
-• Core blockchain concepts like consensus, cells, and tokens.
+##  Quick Start using OFFCKB
 
+- Installed and configured the **OffCKB development environment**.  
+- Learned how to **set up networks** and execute **basic project initialization commands**.  
+- Explored tools and workflows for developing on **Nervos CKB**.
 
-Introduction to Script (Smart Contracts):
-• Learned about what scripts are use in CKB.
-• Learned about the role of scripts in validating transactions.
+---
+
+##  About Lessons 1 & 2
+
+- Understood **how the Nervos blockchain operates**.  
+- Studied **core blockchain concepts** such as:
+  - **Consensus mechanisms**  
+  - **Cells and Tokens**  
+  - **Transaction validation**
+
+---
+
+##  Introduction to Script (Smart Contracts)
+
+- Learned about **CKB scripts** and their importance in CKB.  
+- Understood the **role of scripts in validating transactions**.  
+- Explored how **smart contracts** function within the Nervos ecosystem.
+
+---
+
+##  Summary
+
+> This week focused on building a strong foundation in Nervos CKB fundamentals, setting up the development environment, and understanding blockchain components like cells, transactions, and scripts.
+
+---
+
+###  Next Steps
+
+- Continue exploring **smart contract development** on CKB.  
+- Work on **hands-on dApp examples** using the OffCKB setup.  
+- Begin **Lesson 3** and further blockchain exercises.
