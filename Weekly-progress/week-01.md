@@ -1,13 +1,9 @@
 
-# 🧱 CKB Builder Track – Weekly Progress Report
-
-**Participant:** Arun Kumar  
-**Track:** Builder  
-**Week:** 01  
+# CKB Builder Track – Weekly Progress Report 
 
 ---
 
-## 📘 Progress This Week
+##  Progress This Week
 
 - Learned about **Introduction to Nervos CKB**.  
 - Studied **CKB’s Cell Model** and its structure.  
@@ -17,7 +13,7 @@
 
 ---
 
-## ⚙️ Quick Start using OFFCKB
+##  Quick Start using OFFCKB
 
 - Installed and configured the **OffCKB development environment**.  
 - Learned how to **set up networks** and execute **basic project initialization commands**.  
@@ -25,7 +21,7 @@
 
 ---
 
-## 🔗 About Lessons 1 & 2
+##  About Lessons 1 & 2
 
 - Understood **how the Nervos blockchain operates**.  
 - Studied **core blockchain concepts** such as:
@@ -35,7 +31,7 @@
 
 ---
 
-## 💡 Introduction to Script (Smart Contracts)
+##  Introduction to Script (Smart Contracts)
 
 - Learned about **CKB scripts** and their importance in CKB.  
 - Understood the **role of scripts in validating transactions**.  
@@ -43,13 +39,13 @@
 
 ---
 
-## 🧩 Summary
+##  Summary
 
 > This week focused on building a strong foundation in Nervos CKB fundamentals, setting up the development environment, and understanding blockchain components like cells, transactions, and scripts.
 
 ---
 
-### 📅 Next Steps
+###  Next Steps
 
 - Continue exploring **smart contract development** on CKB.  
 - Work on **hands-on dApp examples** using the OffCKB setup.  
